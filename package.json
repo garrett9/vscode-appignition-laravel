@@ -1,0 +1,18 @@
+{
+  "name": "appignition-laravel",
+  "displayName": "AppIgnition Laravel Extension Pack",
+  "description": "An extension pack recommended for Laravel development by AppIgnition.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "onecentlin.php-productive-pack",
+    "onecentlin.laravel-extension-pack",
+    "dbaeumer.vscode-eslint",
+    "open-southeners.laravel-pint"
+  ]
+}

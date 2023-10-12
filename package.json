@@ -5,6 +5,9 @@
   "version": "0.1.0",
   "publisher": "AppIgnition",
   "icon": "logo-icon-no-background.png",
+  "galleryBanner": {
+    "theme": "dark"
+  },
   "repository": {
     "type": "git",
     "url": "https://github.com/garrett9/vscode-appignition-laravel"

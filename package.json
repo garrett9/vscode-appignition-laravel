@@ -2,7 +2,7 @@
   "name": "appignition-laravel",
   "displayName": "AppIgnition Laravel Extension Pack",
   "description": "An extension pack recommended for Laravel development by AppIgnition.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "publisher": "AppIgnition",
   "icon": "logo-icon-no-background.png",
   "galleryBanner": {

@@ -4,11 +4,7 @@
   "description": "An extension pack recommended for Laravel development by AppIgnition.",
   "version": "0.1.2",
   "publisher": "AppIgnition",
-  "icon": "logo-icon-no-background.png",
-  "galleryBanner": {
-    "color": "#131b1f",
-    "theme": "dark"
-  },
+  "icon": "logo-icon-black-no-background",
   "repository": {
     "type": "git",
     "url": "https://github.com/garrett9/vscode-appignition-laravel"

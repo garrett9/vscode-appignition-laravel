@@ -18,7 +18,7 @@
   "extensionPack": [
     "onecentlin.php-productive-pack",
     "onecentlin.laravel-extension-pack",
-    "felixfbecker.php-debug",
+    "xdebug.php-debug",
     "dbaeumer.vscode-eslint",
     "open-southeners.laravel-pint"
   ]

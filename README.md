@@ -1,6 +1,6 @@
 ## AppIgnition Laravel Extension Pack
 
-A recommended pack of essential PHP and Laravel extensions that will make you more productive in your next project!
+A recommended pack of essential PHP and Laravel extensions from [AppIgnition](https://app-ignition.com) that will make you more productive in your next project!
 
 ### Extensions Included
 - [PHP Productive Pack](https://marketplace.visualstudio.com/items?itemName=onecentlin.php-productive-pack)
@@ -9,7 +9,7 @@ A recommended pack of essential PHP and Laravel extensions that will make you mo
 - [Laravel Pint](https://marketplace.visualstudio.com/items?itemName=open-southeners.laravel-pint)
 
 ### What is AppIgnition?
-AppIgnition is a Docker Desktop extension that aims to simplify the application setup process and provide you with the most ideal development experience for new and existing Laravel applications. Continue reading for some possible use cases to see if AppIgnition is right for you!
+[AppIgnition](https://app-ignition.com) is a Docker Desktop extension that aims to simplify the application setup process and provide you with the most ideal development experience for new and existing Laravel applications. Continue reading for some possible use cases to see if AppIgnition is right for you!
 
 #### Installing a New Laravel Application from Scratch
 Installing a new application with all of the required software becomes a breeze through containerization! Configure your environment and containers through an elegant UI, specify your application's dependencies, and finish the installation within 15-20 minutes without ever having to worry about installing local versions of the software you need.
